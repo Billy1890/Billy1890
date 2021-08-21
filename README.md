@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mohamed Nabil
-- 👀 I’m interested in Web developement and machine learning
-- 🌱 I’m currently learning front-end skills , machine learning
+- 👀 I’m interested in Web developement
+- 🌱 I’m currently learning front-end skills
 - 💞️ I’m looking to collaborate on front-end projects
 - 📫 How to reach me mnabil1890@hotmail.com
 
